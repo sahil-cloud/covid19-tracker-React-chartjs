@@ -1,0 +1,13 @@
+.body {
+  background-color: lightgrey;
+}
+
+.cases {
+  border-top: 12px solid red !important; 
+}
+.deaths {
+  border-top: 12px solid red !important; 
+}
+.recovered {
+  border-top: 12px solid lightgreen !important; 
+}
